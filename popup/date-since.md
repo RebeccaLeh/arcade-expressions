@@ -35,7 +35,7 @@ When(
 
 ## HTML Template
 
-Now add this expression into yoour custom attribute display with the name of your attribute expression. I added the expression to the pop-up title instead so it is displayed more prominently in widgets such as near-me.
+Now add this expression into your custom attribute display with the name of your attribute expression. I added the expression to the pop-up title instead so it is displayed more prominently in widgets such as near-me.
 
 ```html
 last update: {expression/expr["YOUR EXPRESSION NUMBER HERE"]}
